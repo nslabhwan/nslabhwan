@@ -1,12 +1,20 @@
 # NS / OpenSynapse
 
-**AI에게 답만 받지 마세요. 실제 일을 시키세요.**
+**AI에게 답만 받지 마세요. 일을 시키세요.**
 
-NS builds AI execution infrastructure that connects ChatGPT and other AI clients to authorized real systems so work can move from **request → execution → verification → recovery**.
+OpenSynapse is open-source AI work infrastructure for a simpler loop:
 
-## OpenSynapse
+**ask → bounded execution → verification → recovery**
 
-**Let ChatGPT actually work on the computer, server, and Android/Termux device you own.**
+Instead of moving commands, logs, files, and machine state back and forth by hand:
+
+- **Reduce human relay** — less terminal/chat copy-paste.
+- **Work on real machines** — Linux and Android/Termux become bounded work nodes.
+- **Keep access explicit** — authorized roots and actions, not an open public shell.
+- **Verify the outcome** — observable results matter more than an agent saying “done.”
+- **Recover through the same workflow** — execution, verification, and recovery belong together.
+
+## Current public proof
 
 - Real ChatGPT → Secure MCP Tunnel → OpenSynapse E2E: **verified**
 - Linux + Android/Termux bounded work: **verified**
@@ -20,4 +28,4 @@ NS builds AI execution infrastructure that connects ChatGPT and other AI clients
 **YouTube →** https://www.youtube.com/@nslab-agent  
 **Community →** https://discord.gg/YBKQpC6aem
 
-> Build the proof. Let the market judge.
+> Real machines. Bounded access. Verified work.
