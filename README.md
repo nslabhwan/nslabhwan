@@ -23,9 +23,14 @@ Instead of moving commands, logs, files, and machine state back and forth by han
 
 **Try it in 3 minutes →** https://github.com/nslabhwan/ns-agent-reliability/blob/main/GETTING_STARTED.md
 
-**Source →** https://github.com/nslabhwan/ns-agent-reliability  
-**NS →** https://getnslab.com/  
-**YouTube →** https://www.youtube.com/@nslab-agent  
+**Philosophy →** [Stay different. Stay connected.](PHILOSOPHY.md)
+
+**Source →** https://github.com/nslabhwan/ns-agent-reliability
+
+**NS →** https://getnslab.com/
+
+**YouTube →** https://www.youtube.com/@nslab-agent
+
 **Community →** https://discord.gg/YBKQpC6aem
 
 > Real machines. Bounded access. Verified work.
